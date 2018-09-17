@@ -1,0 +1,28 @@
+_repo: Ten-Months-in-a-German-Raider-A-prisoner-of-war-aboard-the-Wolf_52656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cameron, John Stanley
+    gutenberg_agent_id: '46982'
+    url: http://www.gutenberg.org/2009/agents/46982
+  editor:
+    agent_name: Brown, Cyril
+    gutenberg_agent_id: '46983'
+    url: http://www.gutenberg.org/2009/agents/46983
+description: ''
+gutenberg_issued: '2016-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52656'
+  lccn: '18014194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- GITenberg
+title: 'Ten Months in a German Raider: A prisoner of war aboard the Wolf'
+url: http://www.gutenberg.org/ebooks/52656
